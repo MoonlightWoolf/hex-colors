@@ -1,0 +1,34 @@
+body {
+  font-family: Georgia;
+  background-color: Beige;
+}
+
+h1{
+  text-align: center;
+  opacity: 0.5;
+}
+
+h2{
+  text-align: center;
+  opacity: 0.75;
+  color: CadetBlue;
+}
+
+table {
+  border: 5px solid CornflowerBlue;
+  width: 700px;
+  margin: 0 auto;
+}
+
+th,td {
+  border:2.5px solid CornflowerBlue;
+  text-align: center;
+}
+
+.code {
+  font-family: monospace;
+}
+
+.name {
+  font-family: monospace;
+}
